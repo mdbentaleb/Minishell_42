@@ -4,6 +4,7 @@
 
 ## 📌 Overview
 
+
 **Minishell** is a core project from the 42 curriculum that replicates the behavior of a simplified Unix shell. It aims to deepen your understanding of process management, file descriptors, signals, parsing, and job control by building your own command-line interpreter from scratch in C.
 
 ## ✨ Features
