@@ -1,6 +1,6 @@
 # 🐚 Minishell
 
-![Image](https://github.com/user-attachments/assets/0be2e325-1680-4c9e-b6e8-922bfb9430cd)
+![Image](https://github.com/user-attachments/assets/ed5b76fa-6eca-4f5d-b9d2-0158cf298346)
 
 ## 📌 Overview
 
