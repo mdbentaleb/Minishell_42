@@ -20,7 +20,7 @@ UNAME_S := $(shell uname -s)
 
 ifeq ($(UNAME_S), Darwin)
 	READLINE_PREFIX := $(shell brew --prefix readline)
-	CFLAGS += -I$(READLINE_PREFIX)/include
+	CFLAGS += -Wall -Wextra -Werror -I$(READLINE_PREFIX)/include
 	LDFLAGS += -L$(READLINE_PREFIX)/lib -lreadline -lhistory
 else
 	CFLAGS += -I/usr/include/readline
